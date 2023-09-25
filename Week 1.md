@@ -8,9 +8,9 @@
 
 ## Todo List
 
-[ ] Create and Setup Game
-[ ] Create a Player and Add Movement
-[ ] Create a Platform and Implement Jumping
+[ ] Create and Setup Game   
+[ ] Create a Player and Add Movement    
+[ ] Create a Platform and Implement Jumping 
 
 ---
 
